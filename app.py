@@ -54,6 +54,6 @@ if best_frame is not None:
 
     # Save as output_<filename>.jpg
     cv2.imwrite(OUTPUT_FILE, annotated[:, :, ::-1])  # convert RGB->BGR
-    print(f"✅ Saved {OUTPUT_FILE} with {max_faces} faces detected.")
+    print(f" Saved {OUTPUT_FILE} with {max_faces} faces detected.")
 else:
-    print("⚠️ No frames processed.")
+    print(" No frames processed.")
