@@ -1,4 +1,4 @@
-<pre>
+
 BlueEye – Classroom Student Counter 🎓👁️
 
 BlueEye is a computer vision project that uses YOLOv8 to detect and count students in a classroom video. It processes video frames, finds where the maximum number of students appear, and saves the best frame with bounding boxes.
@@ -86,4 +86,4 @@ Integration with student databases.
 
 ✍️ Developed as part of the BlueEye Project – AI-powered classroom student counting.
   
-</pre>
+
